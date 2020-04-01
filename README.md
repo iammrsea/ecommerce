@@ -1,20 +1,12 @@
 # E-commerce website
 
-> This is an e-commerce built with Nestjs,Reactjs,Nuxtjs and Materializecss
+This is a statically generated [NuxtJs App](https://nuxtjs.org) (a [Vuejs](https://vuejs.org) framework), for an e-commerce website for a hypothetical company.
 
-## Build Setup
+The styling was done using [Materializecss](https://materializecss.com). I built the Materialzecss classes into Vuejs components (a combination of functional and non-functional components).
 
-```bash
-# install dependencies
-$ yarn install
+The NuxJs App serves both the Admin and Customer Dashboard UIs built with ReactJs. You can checkout the source codes for the Admin and Customer Dashboard UIs here and here respectively. And for the backend source code implemented with [NestJs](https://nestjs.com), check [here](https://github.com/iammrsea/ecommerce-NestJsBackend)
 
-# serve with hot reload at localhost:3000
-$ yarn dev
+For Demo, visit [We Do Your Farm](wedoyourfarm.netlify.com).
 
-# build for production and launch server
-$ yarn build
-$ yarn start
+You can clone or download the source code and modify it according to your needs.
 
-# generate static project
-$ yarn generate
-```
