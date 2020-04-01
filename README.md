@@ -7,6 +7,10 @@ The styling was done using [Materializecss](https://materializecss.com). I built
 The NuxJs App serves both the Admin and Customer Dashboard UIs built with ReactJs. You can checkout the source codes for the Admin and Customer Dashboard UIs [here](https://github.com/iammrsea/ecommerce-AdminUI) and [here](https://github.com/iammrsea/ecommerce-AdminUI/tree/customer-dashboard) respectively. And for the backend source code implemented with [NestJs](https://nestjs.com), check [here](https://github.com/iammrsea/ecommerce-NestJsBackend)
 
 For Demo, visit [We Do Your Farm](wedoyourfarm.netlify.com).
+Admin login details
+- Username: [Tony Smith]()
+- password: [tonysmith]()
+[link](https://wedoyourfarm.netlify.com)
 
 You can clone or download the source code and modify it according to your needs.
 
