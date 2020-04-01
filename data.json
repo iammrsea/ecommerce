@@ -1,0 +1,180 @@
+{
+  "products": [
+    {
+      "price": 580,
+      "id": 1,
+      "name": "Rototiller",
+      "src": "/img/products/rototiller.jpg",
+      "description": "It is used for tilling the soil",
+      "category": "Soil Preparation"
+    },
+    {
+      "price": 580,
+      "id": 2,
+      "name": "Disc Plough",
+      "src": "/img/products/disc-plough.jpg",
+      "description": "It is used for cultivating the soil",
+      "category": "Soil Preparation"
+    },
+    {
+      "price": 580,
+      "id": 3,
+      "name": "Harrow Plough",
+      "src": "/img/products/harrow.jpg",
+      "description": "It is used for preparing tilled soil for seed sowing",
+      "category": "Soil Preparation"
+    },
+    {
+      "price": 580,
+      "id": 4,
+      "name": "Seed Drill",
+      "src": "/img/products/seed-drill.jpg",
+      "description": "It is used to make holes in the soil",
+      "category": "Soil Preparation"
+    },
+    {
+      "price": 580,
+      "id": 5,
+      "name": "Rotavator",
+      "src": "/img/products/rotavator.jpg",
+      "description": "It is used for breaking up the soil",
+      "category": "Soil Preparation"
+    },
+    {
+      "price": 580,
+      "id": 6,
+      "name": "Subsoiler",
+      "src": "/img/products/subsoiler.jpg",
+      "description": "It is used to rip hard grounds to remove compaction lays",
+      "category": "Soil Preparation"
+    },
+    {
+      "price": 580,
+      "id": 7,
+      "name": "Cultipacker",
+      "src": "/img/products/cultipacker.jpg",
+      "description": "It is used to remove air packets and press down small stones, forming a smooth, firm seedbed",
+      "category": "Soil Preparation"
+    },
+    {
+      "price": 580,
+      "id": 8,
+      "name": "Chisel Plow",
+      "src": "/img/products/chisel-plow.jpg",
+      "description": "It is used to break up and stir soil a foot or more beneath the surface without turning it",
+      "category": "Soil Preparation"
+    },
+    {
+      "price": 580,
+      "id": 9,
+      "name": "Bottom Plow",
+      "src": "/img/products/bottom-plow.jpg",
+      "description": "It is used for breaking up the soil",
+      "category": "Soil Preparation"
+    },
+    {
+      "price": 580,
+      "id": 10,
+      "name": "Rake",
+      "src": "/img/products/rake.jpg",
+      "description": "It is used to collect leaves, hay, grass etc",
+      "category": "Soil Preparation"
+    },
+    {
+      "price": 580,
+      "id": 11,
+      "name": "Pick",
+      "src": "/img/products/pick.jpg",
+      "description": "It is used to pierce or make a hole",
+      "category": "Soil Preparation"
+    },
+    {
+      "price": 580,
+      "id": 12,
+      "name": "Shovel",
+      "src": "/img/products/shovel.jpg",
+      "description": "It is used for digging, lifting and moving bulk materials",
+      "category": "Soil Preparation"
+    },
+    {
+      "price": 580,
+      "id": 13,
+      "name": "Pitchfork",
+      "src": "/img/products/pitch-fork.jpg",
+      "description": "It is used to lift and pitch loose material such as leaves, hay, straw or leaves",
+      "category": "Soil Preparation"
+    },
+    {
+      "price": 580,
+      "id": 14,
+      "name": "Hand Cultivator",
+      "src": "/img/products/hand-cultivator.jpg",
+      "description": "It is used to turn the soil",
+      "category": "Soil Preparation"
+    },
+    {
+      "price": 580,
+      "id": 15,
+      "name": "Trowel",
+      "src": "/img/products/trowel.jpg",
+      "description": "It is used for digging and smoothing the soil",
+      "category": "Seed Sowing"
+    },
+    {
+      "price": 580,
+      "id": 16,
+      "name": "Rotatory Dibbler",
+      "src": "/img/products/rotary-dibbler.jpg",
+      "description": "It is used for  for dibbling of medium and bold size seeds such as maize, soybean, sorghum, pigeon pea etc",
+      "category": "Seed Sowing"
+    },
+    {
+      "price": 580,
+      "id": 17,
+      "name": "Seed Cum Fertilizer Drill",
+      "src": "/img/products/seed-cum-fertilizer-drill.jpeg",
+      "description": "It is used to sow crops like wheat, gram, sorghum, soybean, lentil, pea, sunflower, safflower etc. and drill fertilizer in soil under rainfed condition",
+      "category": "Seed Sowing"
+    },
+    {
+      "price": 580,
+      "id": 18,
+      "name": "Groundnut Planter",
+      "src": "/img/products/groundnut-planter.jpg",
+      "description": "It is used for for planting groundnut",
+      "category": "Seed Sowing"
+    },
+    {
+      "price": 580,
+      "id": 19,
+      "name": "Power Tiller, Rice Planter",
+      "src": "/img/products/power-tiller-rice-planter.jpg",
+      "description": "It is used for planting rice",
+      "category": "Seed Sowing"
+    },
+    {
+      "price": 580,
+      "id": 20,
+      "name": "Rice Transplanter",
+      "src": "/img/products/rice-transplanter.jpg",
+      "description": "It is used for transplanting paddy seedlings in puddled soils",
+      "category": "Seed Sowing"
+    },
+    {
+      "price": 580,
+      "id": 21,
+      "name": "Zero Till Seed Fertilizer Drill",
+      "src": "/img/products/zero-till-seed-fertilizer-drill.jpg",
+      "description": "It is used to sow wheat directly in rice harvested fields without preparing the seedbed",
+      "category": "Seed Sowing"
+    },
+    {
+      "price": 580,
+      "id": 22,
+      "name": "Raised Bed Planter",
+      "src": "/img/products/raised-bed-planter.jpg",
+      "description": "It is used to sow wheat",
+      "category": "Seed Sowing"
+    }
+  ]
+}
