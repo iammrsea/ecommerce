@@ -1,6 +1,6 @@
-# client
+# E-commerce website
 
-> My stunning Nuxt.js project
+> This is an e-commerce built with Nestjs,Reactjs,Nuxtjs and Materializecss
 
 ## Build Setup
 
@@ -18,5 +18,3 @@ $ yarn start
 # generate static project
 $ yarn generate
 ```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
