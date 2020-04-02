@@ -1,3 +1,3 @@
 export default function({ $axios }) {
-  $axios.setBaseURL("http://localhost:4000/api/v1/");
+  $axios.setBaseURL("https://nestjs-ecommerce-app.herokuapp.com/api/v1/");
 }
