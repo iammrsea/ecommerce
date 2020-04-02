@@ -1,22 +1,17 @@
-# client
+# E-commerce website
 
-> My stunning Nuxt.js project
+This is a statically generated [NuxtJs App](https://nuxtjs.org) (a [Vuejs](https://vuejs.org) framework), for an e-commerce website for a hypothetical company.
 
-## Build Setup
+The styling was done using [Materializecss](https://materializecss.com). I built the Materialzecss classes into Vuejs components (a combination of functional and non-functional components).
 
-```bash
-# install dependencies
-$ yarn install
+The NuxJs App serves both the Admin and Customer Dashboard UIs built with ReactJs. You can checkout the source codes for the Admin and Customer Dashboard UIs [here](https://github.com/iammrsea/ecommerce-AdminUI) and [here](https://github.com/iammrsea/ecommerce-AdminUI/tree/customer-dashboard) respectively. And for the backend source code implemented with [NestJs](https://nestjs.com), check [here](https://github.com/iammrsea/ecommerce-NestJsBackend)
 
-# serve with hot reload at localhost:3000
-$ yarn dev
+For Demo, visit [We Do Your Farm](wedoyourfarm.netlify.com).
+Admin login details
+- Username: [Tony Smith]()
+- password: [tonysmith]()
 
-# build for production and launch server
-$ yarn build
-$ yarn start
+[link](https://wedoyourfarm.netlify.com)
 
-# generate static project
-$ yarn generate
-```
+You can clone or download the source code and modify it according to your needs.
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
