@@ -84,7 +84,7 @@ export default {
       const cart = this.$store.state.cart;
       localStorage.setItem("loggedIn_user_cart", JSON.stringify(cart));
       localStorage.setItem("user_from_store", JSON.stringify(cart));
-      window.location = "/dashboard";
+      window.location = "/customer";
       //   this.$router.push("/admin");
     }
   }
