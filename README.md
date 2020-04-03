@@ -11,7 +11,7 @@ Admin login details
 - Username: [Tony Smith]()
 - password: [tonysmith]()
 
-[link](https://wedoyourfarm.netlify.com)
+[Admin Dashboard](https://wedoyourfarm.netlify.com/admin)
 
 You can clone or download the source code and modify it according to your needs.
 
